@@ -29,7 +29,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/vinifranck/vinifranck/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
