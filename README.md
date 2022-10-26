@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Vue.js<br>🎯 Goals: to become a better person every day<br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Vue.js<br>🎯 Goals: to become a better person every day<br>🎲 Fun fact: I'm passionate about coffee</p>
 
 ###
 
